@@ -1,0 +1,58 @@
+header{
+    background-color: blueviolet;
+    color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+header h1{
+    margin: 0;
+    font-size: 30px;
+    padding: 5px;
+    text-align: center;
+}
+
+.container{
+    margin: 70px 0 0 0;
+}
+
+.container h2{
+    margin: 30px 0 10px 0;
+    font-size: 23px;
+    color: #cc55bb;
+}
+
+.container p{
+    margin: 7px 7px 7px 20px;
+}
+
+.container button{
+    margin: 10px 7px 7px 20px;
+}
+
+table{
+    text-align: center;
+    font-size: 20px;
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+}
+
+table th{
+    padding: 10px;
+    border-bottom: solid 1px blueviolet;
+}
+
+table td{
+    padding: 10px 10px;
+}
+
+@media only screen and (max-width:600px){
+    .discriptions img{
+        float: none;
+        display: block;
+        margin: 0 auto;
+    }
+}
