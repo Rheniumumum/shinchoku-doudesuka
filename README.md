@@ -5,10 +5,16 @@
 リストに登録したタスクはワンクリックで「進捗だめです」「進捗あります」「タスク完了！」の3段階にわけて管理することができます。<br>
 また、タスクは登録すると自動的に締切順に並べ替えられます。<br>
 
-※githubアカウント移行に伴い再公開しました。<br>
+※GitHubアカウント移行に伴い再公開しました。<br>
   
-## 使用技術
-HTML, CSS, Bootstrap, JavaScript, Vue.js
+## 使用言語/開発環境等
+ - HTML/CSS
+ - Bootstrap
+ - JavaScript
+ - Vue.js
+ - Visual Studio Code
+ - GitHub
+ - GitHub Desktop
 
 ## App URL
 GitHub Pagesで公開しています。スマートフォンでも閲覧できますがPCを推奨しています。<br>
